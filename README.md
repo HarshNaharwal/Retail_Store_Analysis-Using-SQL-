@@ -1,6 +1,4 @@
-# Retail_Store_Analysis-Using-SQL-
-
-# 🛒 Sales Store SQL Analysis Project
+# Retail_Store_Analysis-Using-SQL
 
 ## 📌 Project Overview
 
