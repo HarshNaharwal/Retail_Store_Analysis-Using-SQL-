@@ -188,7 +188,7 @@ Age Groups:
 ## 🛠️ Tools & Technologies
 
 * **SQL Server**
-* **T-SQL** (CTEs, Window Functions, Aggregations)
+* ** (CTEs, Window Functions, Aggregations)**
 
 ---
 
@@ -222,7 +222,7 @@ Age Groups:
 ## 🙌 Author
 
 **Harsh**
-Aspiring Data Analyst | SQL | Excel | Power BI
+ Data Analyst | SQL | Excel | Power BI
 
 ---
 
